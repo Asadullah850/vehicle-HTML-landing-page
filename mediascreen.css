@@ -1,0 +1,73 @@
+@media only screen and (max-width:790px) {
+    .bennarSaction h1{
+        font-size:40px ;
+    }
+    .bennarSactionp{
+        font-size: 15px;
+    }
+    .topFooter{
+        height: 80px;
+    }
+    .topFooterSarch{
+        width: 95%;
+        height: 40px;
+    }
+    .topFooterSarch img{
+        padding: 0px 5px;
+    }
+    .brand{
+        margin-top: 410px;
+        width: 100%;
+    }
+    .mb-bannar{
+        display: none;
+    }
+    .card-title{
+        font-size: 35px;
+    }
+    .card-title p{
+        font-size: 14px;
+    }
+    .sdetails h4{
+        font-size: 25px;
+    }
+    .sdetails p{
+        font-size: 20px;
+    }
+    .placeBides{
+        margin: auto;
+    }
+    .card{
+        width: 435px;
+    }
+    .simg{
+        height: 57px;
+        width: 60px;
+    }
+    .c-F-Margin{
+       margin-left: 50px;
+    }
+    .numberBox-item1{
+        height: 100px;
+        width: 80px;
+        text-align: center;
+        border: 1px solid #868492;
+    }
+    .numberBox-items h1{
+        font-size: 3rem;
+        font-weight: bolder;
+        font-family: 'Inter';
+    }
+    .auctions p{
+        margin: auto;
+        text-align: right;
+    }
+    .footer h1{
+        font-size: 2px;
+    }
+    .footer p{
+        font-size: 10px;
+    }
+    
+
+}

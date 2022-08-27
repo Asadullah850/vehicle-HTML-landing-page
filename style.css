@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter' !important;
+}
+.nav-link{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+    margin-left: 20px;
+}
+.singUp{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+.singUp img{
+    background: #F5F6F7;
+    border-radius: 10px;
+    height: 30px;
+    width: 32px;
+    padding: 5px;
+}
+
+.bennarSaction{
+    background-image: url(img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+    width: 100%;
+}
+.bennarSaction h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: -0.304762px;
+    color: #FFFFFF;
+    padding-top: 140px;
+}
+.bennarSactionp{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.topFooter{
+    height: 100px;
+    width: 98%;
+    max-width: 945px;
+    position: absolute;
+    left: 50%;
+    top: 560px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 4px rgba(153, 155, 168, 0.15);
+    border-radius: 8px;
+    margin: 0px auto;
+    bottom: -40px;
+    z-index: 99;
+    transform: translatex(-50%);
+}
+.topFooter p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+    padding: 0px 5px ;
+}
+.topFooterextMargintop{
+    margin-top: 20px;
+}
+.form-select{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+    border: none !important;
+}
+.withoutp{
+    margin-top: 35px;
+}
+.broderRight{
+    border-right: 1px solid #dfdfdf;
+    height: 50px;
+    margin-top: 20px;
+}
+.topFooterSarch{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    background: #7963F0;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 2px;
+    height: 30px;
+    width: 80px;
+}
+.brand{
+    margin-top: 75px;
+    height: 60px;
+    width: 100%;
+    padding: auto;
+}
+.card1st{
+    margin: 10px 0px 40px 0px;
+}
+.card-title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0D0A19;
+}
+.card-title p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+.sdetails h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+
+}
+.sdetails p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+.tk{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+}
+.dTk{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.1px;  
+    color: #9A9EA7;
+}
+.placeBides{
+    margin: auto;
+}
+.card{
+    padding: 10px;
+    width: 300px;
+}
+.card-group{
+    column-gap: 8px;
+}
+.simg{
+    height: 50px;
+    width: 50px;
+    border: 1px solid #E4E6E8;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.simg img{
+    height: 80%;
+    width: 70%;
+    margin: 10% 15%;    
+    border-radius: 8px;
+}
+.c-F-Margin{
+    margin: 0px 10px;
+}
+.cardFooterbutt{
+    border-radius: 10px;
+}
+.numberBox{
+    margin: auto;
+}
+.numberBox-item1{
+    height: 100px;
+    width: 80px;
+    text-align: center;
+    border: 1px solid #868492;
+}
+.numberBox-items h1{
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Inter';
+}
+.auctions p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
+.footer h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+.footer p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    color: #9A9EA7;
+}
